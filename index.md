@@ -1,16 +1,13 @@
-# ***_*Hey, I am Prakash Chand Thakuri*_***
+#*Hey, I am Prakash Chand Thakuri*
 __________________________________________________
-    A Hacker 
----------------------------------------------
-    CTF player 
-----------------------------------------------
-    Security Researcher 
- ---------------------------------
-    Programmer
-
+```python
+Pentester 
+Bughunter 
+Programmer
+```
 -------------------------------------------------
 **`email: prakashchand.pc72@gmail.com`**
-**`instagram.com/prakashchand.pc72`**
-**`linkedin.com/in/prakash-chand-thakuri-b87b2120a/`**
-**`youtube.com/ASTUTE_72`**
+[**`Instagram`**](instagram.com/prakashchand.pc72)
+[**`linkedin`**](linkedin.com/in/prakash-chand-thakuri-b87b2120a/)
+
 
