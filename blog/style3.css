@@ -1,4 +1,4 @@
-.cards-list {
+        .cards-list {
             z-index: 0;
             width: 100%;
             margin: 50%;
@@ -6,12 +6,12 @@
             justify-content: space-around;
             flex-wrap: wrap-reverse;
         }
-
+        
         #imgc {
             width: 300px;
             height: 353px;
         }
-
+        
         .vcard {
             margin: 30px 0px;
             width: 300px;
@@ -22,20 +22,20 @@
             cursor: pointer;
             transition: 0.4s;
         }
-
+        
         .vcard .card_image {
             width: inherit;
             height: inherit;
             border-radius: 40px;
         }
-
+        
         .vcard .card_image img {
             width: inherit;
             height: inherit;
             border-radius: 40px;
             object-fit: cover;
         }
-
+        
         .vcard .card_title {
             text-align: center;
             border-radius: 0px 0px 40px 40px;
@@ -45,16 +45,16 @@
             margin-top: -80px;
             height: 40px;
         }
-
+        
         .vcard:hover {
             transform: scale(0.9, 0.9);
             box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25), -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
         }
-
+        
         .title-white {
             color: white;
         }
-
+        
         .title-black {
             color: black;
         }
