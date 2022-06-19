@@ -42,8 +42,8 @@
 
 .center {
     position: absolute;
-    top: 60%;
-    left: 20%;
+    top: 70%;
+    left: 0%;
     transform: translate(-50%, -50%);
 }
 
@@ -112,31 +112,4 @@
 
 .inactive {
     color: #fff;
-}
-
-@media screen and (max-width: 625px) {
-    .header1 {
-        font-size: 8vw;
-    }
-    .header2 {
-        font-size: 2vw;
-    }
-    .link1 {
-        font-size: 4vw;
-    }
-    .center {
-        position: absolute;
-        top: 182%;
-        left: 23%;
-        transform: translate(-50%, -50%);
-    }
-}
-
-@media screen and (min-width: 1390px) {
-    .header2 {
-        font-size: 2.3vw;
-    }
-    .header4 {
-        font-size: 1.2vw;
-    }
 }
