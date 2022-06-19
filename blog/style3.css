@@ -56,19 +56,19 @@
 
 @media all and (max-width: 500px) {
     .card-list {
-        /* On small screens, we are no longer using row direction but column */
+        /* On small screens, we are no longer using row direction but column /
         flex-direction: column;
     }
 }
 
 
-/*
+/
   .card {
     margin: 30px auto;
     width: 300px;
     height: 300px;
     border-radius: 40px;
-    background-image: url('https://i.redd.it/b3esnz5ra34y.jpg');
+    background-image: url('https://i.redd.it/b3esnz5ra34y.jpg%27);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
